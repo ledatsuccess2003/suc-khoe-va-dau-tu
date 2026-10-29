@@ -1,10 +1,9 @@
 {
   "name": "suc-khoe-va-dau-tu",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Vietnamese investment audio review web app",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "check": "node --check app.js"
   },
   "keywords": [],
   "author": "",
