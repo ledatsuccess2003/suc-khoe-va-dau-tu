@@ -1,0 +1,88 @@
+{
+  "verifiedAt": "2026-10-29T23:49:35.894Z",
+  "minimumSeconds": 600,
+  "voice": "vi-VN-HoaiMyNeural",
+  "rate": "-8%",
+  "reviews": [
+    {
+      "id": 1,
+      "title": "Tâm lý học về tiền",
+      "words": 3843,
+      "seconds": 1143,
+      "chapters": 9,
+      "bytes": 6860973
+    },
+    {
+      "id": 2,
+      "title": "Nhà đầu tư thông minh",
+      "words": 3955,
+      "seconds": 1158,
+      "chapters": 9,
+      "bytes": 6950829
+    },
+    {
+      "id": 3,
+      "title": "Trên đỉnh Phố Wall",
+      "words": 4266,
+      "seconds": 1263,
+      "chapters": 9,
+      "bytes": 7576365
+    },
+    {
+      "id": 4,
+      "title": "Đầu tư theo lẽ thường",
+      "words": 3616,
+      "seconds": 1061,
+      "chapters": 9,
+      "bytes": 6365469
+    },
+    {
+      "id": 5,
+      "title": "Cổ phiếu thường, lợi nhuận phi thường",
+      "words": 3849,
+      "seconds": 1130,
+      "chapters": 9,
+      "bytes": 6783213
+    },
+    {
+      "id": 6,
+      "title": "Điều quan trọng nhất",
+      "words": 3882,
+      "seconds": 1154,
+      "chapters": 9,
+      "bytes": 6921309
+    },
+    {
+      "id": 7,
+      "title": "Người giàu có nhất thành Babylon",
+      "words": 4118,
+      "seconds": 1231,
+      "chapters": 9,
+      "bytes": 7388877
+    },
+    {
+      "id": 8,
+      "title": "Cuốn sách nhỏ đánh bại thị trường",
+      "words": 3775,
+      "seconds": 1117,
+      "chapters": 9,
+      "bytes": 6701565
+    },
+    {
+      "id": 9,
+      "title": "Vẫn luôn như vậy",
+      "words": 3803,
+      "seconds": 1138,
+      "chapters": 9,
+      "bytes": 6827277
+    },
+    {
+      "id": 10,
+      "title": "Đánh bại Phố Wall",
+      "words": 3898,
+      "seconds": 1148,
+      "chapters": 9,
+      "bytes": 6886893
+    }
+  ]
+}
